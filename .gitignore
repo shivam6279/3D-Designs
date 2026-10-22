@@ -1,2 +1,6 @@
 3D Printer Stuff/Marlin*/
 ~*.*
+PnP/Lumen/
+PnP/Rev1/PnP.SLDASM
+PnP/Rev2/PnP.SLDASM
+PnP/Common/mainboard.step
